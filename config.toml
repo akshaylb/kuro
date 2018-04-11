@@ -1,4 +1,4 @@
-baseurl                 = "https://akshaykayastha.com/"               # Your domain name. Must end with "/"
+baseurl                 = "www.akshaykayastha.com/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Kuro"
 theme                   = "sam"
