@@ -1,4 +1,4 @@
-baseurl                 = "localhost:1313/"               # Your domain name. Must end with "/"
+baseurl                 = "https://akshaykayastha.com/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Kuro"
 theme                   = "sam"
